@@ -1,0 +1,94 @@
+.
+├── analysis_options.yaml
+├── android
+│   ├── app
+│   │   ├── build.gradle.kts
+│   │   └── src
+│   ├── build.gradle.kts
+│   ├── gradle
+│   │   └── wrapper
+│   ├── gradle.properties
+│   ├── gradlew
+│   ├── gradlew.bat
+│   ├── local.properties
+│   ├── myapp_android.iml
+│   └── settings.gradle.kts
+├── build
+│   ├── 34012d5276b85e5640ff49211e35fa7f
+│   │   ├── _composite.stamp
+│   │   ├── gen_dart_plugin_registrant.stamp
+│   │   └── gen_localizations.stamp
+│   ├── 9b1c68e3ba871013eb94170c3a2f7633.cache.dill.track.dill
+│   ├── app
+│   │   ├── generated
+│   │   ├── intermediates
+│   │   ├── kotlin
+│   │   ├── kotlinToolingMetadata
+│   │   ├── outputs
+│   │   └── tmp
+│   ├── clipboard_watcher
+│   │   ├── generated
+│   │   ├── intermediates
+│   │   ├── kotlin
+│   │   ├── outputs
+│   │   └── tmp
+│   ├── flutter_assets
+│   │   ├── AssetManifest.bin
+│   │   ├── AssetManifest.bin.json
+│   │   ├── AssetManifest.json
+│   │   ├── FontManifest.json
+│   │   ├── fonts
+│   │   ├── NOTICES
+│   │   ├── packages
+│   │   └── shaders
+│   ├── native_assets
+│   │   └── android
+│   ├── open_filex
+│   │   ├── generated
+│   │   ├── intermediates
+│   │   ├── outputs
+│   │   └── tmp
+│   ├── path_provider_android
+│   │   ├── generated
+│   │   ├── intermediates
+│   │   ├── outputs
+│   │   └── tmp
+│   ├── permission_handler_android
+│   │   ├── generated
+│   │   ├── intermediates
+│   │   ├── outputs
+│   │   └── tmp
+│   └── reports
+│       └── problems
+├── lib
+│   ├── arch.text
+│   ├── main.dart
+│   ├── screens
+│   │   ├── editor_screen.dart
+│   │   ├── file_picker_screen.dart
+│   │   └── home_screen.dart
+│   ├── services
+│   │   └── clipboard_listener.dart
+│   ├── utils
+│   │   ├── file_saver.dart
+│   │   └── permission_manager.dart
+│   └── widgets
+│       └── file_tile.dart
+├── myapp.iml
+├── pubspec.lock
+├── pubspec.yaml
+├── README.md
+├── structure.txt
+├── test
+│   └── widget_test.dart
+└── web
+    ├── favicon.png
+    ├── icons
+    │   ├── Icon-192.png
+    │   ├── Icon-512.png
+    │   ├── Icon-maskable-192.png
+    │   └── Icon-maskable-512.png
+    ├── index.html
+    └── manifest.json
+
+52 directories, 40 files
