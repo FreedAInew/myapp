@@ -1,0 +1,27 @@
+/lib
+├── main.dart
+├── screens/
+│   ├── home_screen.dart
+│   ├── editor_screen.dart         ⬅️ Pantalla de edición tipo Notepad
+│   ├── file_picker_screen.dart    ⬅️ Pantalla para seleccionar archivos
+├── utils/
+│   ├── file_saver.dart            ⬅️ Guardado de archivos .txt
+│   ├── permission_manager.dart    ⬅️ Manejo de permisos (WRITE/READ)
+├── widgets/
+│   ├── file_tile.dart             ⬅️ Vista reutilizable para mostrar archivos
+├── services/
+│   ├── clipboard_listener.dart    ⬅️ Monitoreo del portapapeles
+
+
+# 🗂 Crear las carpetas
+mkdir -p lib/screens lib/utils lib/widgets lib/services
+
+# 📄 Crear archivos dentro de cada carpeta
+touch lib/main.dart
+touch lib/screens/home_screen.dart
+touch lib/screens/editor_screen.dart
+touch lib/screens/file_picker_screen.dart
+touch lib/utils/file_saver.dart
+touch lib/utils/permission_manager.dart
+touch lib/widgets/file_tile.dart
+touch lib/services/clipboard_listener.dart
